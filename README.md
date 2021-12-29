@@ -9,7 +9,8 @@ ENDPOINTS:<br/>/getall (method=[GET])<br />/reg (method=[POST]) (visit Demo for 
 
 ### 🏠 [Homepage](https://codeinit-reg.herokuapp.com/)
 
-### ✨ [Demo](https://codeinit-reg.herokuapp.com/getall)
+### ✨ [Demo](https://codeinit-reg.herokuapp.com/getall)  ###Deployment done for demo purposes only sqlite db in heroku refreshes periodically on heroku more on that 
+<a href='https://stackoverflow.com/questions/28911820/why-is-my-app-deployed-on-heroku-has-its-database-reset-periodically'>Here</a>
 
 ## Install
 
